@@ -1,0 +1,80 @@
+[
+  {
+    "code": "12334tgyhu",
+    "university": "Fortui",
+    "admissionYear": 2023,
+    "cpa": 11,
+    "academicAbility": 1,
+    "id": 2,
+    "name": "Kopl",
+    "birthday": "2002-05-03T00:00:00",
+    "address": "Hjio",
+    "height": 190,
+    "weight": 78
+  },
+  {
+    "code": "123e4r5t6y",
+    "university": "Valenjus",
+    "admissionYear": 2013,
+    "cpa": 6.4,
+    "academicAbility": 4,
+    "id": 4,
+    "name": "Joaz",
+    "birthday": "1996-08-29T00:00:00",
+    "address": "Baroop",
+    "height": 182,
+    "weight": 70
+  },
+  {
+    "code": "6vjli8903e",
+    "university": "Bemanty",
+    "admissionYear": 2017,
+    "cpa": 8.6,
+    "academicAbility": 2,
+    "id": 5,
+    "name": "Ruben",
+    "birthday": "1998-06-18T00:00:00",
+    "address": "Benfio",
+    "height": 188,
+    "weight": 78
+  },
+  {
+    "code": "etgyhuj890",
+    "university": "Polim",
+    "admissionYear": 2021,
+    "cpa": 9.4,
+    "academicAbility": 1,
+    "id": 6,
+    "name": "Josko",
+    "birthday": "2004-07-05T00:00:00",
+    "address": "Crtyu",
+    "height": 183,
+    "weight": 78
+  },
+  {
+    "code": "edrf5648hy",
+    "university": "Tgrfff",
+    "admissionYear": 2020,
+    "cpa": 9.2,
+    "academicAbility": 1,
+    "id": 7,
+    "name": "Tgyyy",
+    "birthday": "2002-04-03T00:00:00",
+    "address": "Eds",
+    "height": 178,
+    "weight": 76
+  },
+  {
+    "code": "12edrf678i",
+    "university": "Ftyu",
+    "admissionYear": 2021,
+    "cpa": 8,
+    "academicAbility": 2,
+    "id": 8,
+    "name": "Tyui",
+    "birthday": "1999-03-12T00:00:00",
+    "address": "Kiop",
+    "height": 176,
+    "weight": 70
+  }
+]
